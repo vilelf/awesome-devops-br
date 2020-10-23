@@ -12,9 +12,8 @@ Lista de recursos (links, livros, Q&amp;A) discutidos no canal do Telegram Devop
 
 ## Por onde começar
 
-- [gutocarvalho](http://gutocarvalho.net/blog/2016/09/06/por-onde-iniciar-os-estudos-sobre-devops/) - Por onde iniciar os estudos sobre Devops?
-- [origens](http://gutocarvalho.net/blog/2016/06/02/origens-da-cultura-devops/) - Origens da cultura Devops
-- [perguntas comuns](http://gutocarvalho.net/octopress/2015/04/15/perguntas-pontuais-devops/)
+- [gutocarvalho](https://archive.gutocarvalho.net/hugo/2016/09/06/por-onde-iniciar-os-estudos-sobre-devops/) - Por onde iniciar os estudos sobre Devops?
+- [origens](https://archive.gutocarvalho.net/hugo/2016/06/02/origens-da-cultura-devops/) - Origens da cultura Devops
 - [quora](https://www.quora.com/What-are-the-best-resources-for-learning-about-DevOps) - What are the best resources for learning about Devops?
 - [opsschool](http://www.opsschool.org/en/latest/) - Learn to be an operations engineer
 - [jedi](http://www.jedi.be/blog/2010/02/12/what-is-this-devops-thing-anyway/) - What is this devops thing?
